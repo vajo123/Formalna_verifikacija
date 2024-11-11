@@ -1,0 +1,51 @@
+2024-11-11 10:36:07.216336 (29258) main____ INFO    ----------------------------------------
+2024-11-11 10:36:07.216531 (29258) main____ INFO    JasperGold version info
+2024-11-11 10:36:07.216559 (29258) main____ INFO      tool      : JasperGold 2019.06
+2024-11-11 10:36:07.216586 (29258) main____ INFO      version   : 2019.06p002 64 bits
+2024-11-11 10:36:07.216603 (29258) main____ INFO      build date: 2019.08.30 18:14:52 PDT
+2024-11-11 10:36:07.216616 (29258) main____ INFO    ----------------------------------------
+2024-11-11 10:36:07.216627 (29258) main____ INFO    Runtime info:
+2024-11-11 10:36:07.216642 (29258) main____ INFO      platform  : Linux 3.10.0-1160.el7.x86_64 x86_64
+2024-11-11 10:36:07.216661 (29258) main____ INFO      hostname  : ws7.lab003.kel.net
+2024-11-11 10:36:07.216674 (29258) main____ INFO      pid       : 29258
+2024-11-11 10:36:07.216686 (29258) main____ INFO      arguments : '-style' 'windows' 'do.tcl'
+2024-11-11 10:36:07.216697 (29258) main____ INFO    ----------------------------------------
+2024-11-11 10:36:07.216708 (29258) main____ INFO    System resource limits info:
+2024-11-11 10:36:07.216720 (29258) main____ INFO      virtual memory: unlimited
+2024-11-11 10:36:07.216733 (29258) main____ INFO      cpu time      : unlimited
+2024-11-11 10:36:07.216777 (29258) main____ INFO      stack size    : 8388608 B
+2024-11-11 10:36:07.216813 (29258) main____ INFO      core file size: 0 B
+2024-11-11 10:36:07.216842 (29258) main____ INFO      open files    : 1024
+2024-11-11 10:36:07.216857 (29258) main____ INFO      file size     : unlimited
+2024-11-11 10:36:07.216868 (29258) main____ INFO    ----------------------------------------
+2024-11-11 10:36:07.216879 (29258) main____ INFO    Memory statistics:
+2024-11-11 10:36:07.216890 (29258) main____ INFO      total physical memory  : 16156816 kB
+2024-11-11 10:36:07.216901 (29258) main____ INFO      free physical memory   : 10455236 kB
+2024-11-11 10:36:07.216911 (29258) main____ INFO      committed address space: 8538084 kB
+2024-11-11 10:36:07.216921 (29258) main____ INFO    ----------------------------------------
+2024-11-11 10:36:07.217001 (29258) main____ INFO    Important environment variables:
+2024-11-11 10:36:07.217032 (29258) main____ INFO      DISPLAY        : ':10.0'
+2024-11-11 10:36:07.217053 (29258) main____ INFO      LM_LICENSE_FILE: '5280@cadresearch.kel.net'
+2024-11-11 10:36:07.217066 (29258) main____ INFO    ----------------------------------------
+2024-11-11 10:36:07.219076 (29258) lic_core INFO    Initializing license system ...
+2024-11-11 10:36:07.220352 (29258) lic_core INFO    ... license system initialized.
+2024-11-11 10:36:07.223400 (29258) lic__man INFO    Claim 'main' for <ui>.
+2024-11-11 10:36:07.223506 (29258) lic_core INFO    (1) checking out 'jasper_interactive' ...
+2024-11-11 10:36:07.256767 (29258) lic_core INFO    ... (1) checkout succeeded
+2024-11-11 10:36:07.256934 (29258) lic__man INFO    Claim 'fpv' for <ui>.
+2024-11-11 10:36:07.257002 (29258) lic_core INFO    (2) checking out 'jasper_fpv' ...
+2024-11-11 10:36:07.267615 (29258) lic_core INFO    ... (2) checkout failed (error: -5) ("FLEXnet ERROR(-5, 0, 0): No such feature exists.")
+2024-11-11 10:36:07.267670 (29258) lic_core INFO    (3) checking out 'jasper_fao' ...
+2024-11-11 10:36:07.296630 (29258) lic_core INFO    ... (3) checkout succeeded
+2024-11-11 10:36:12.246129 (29258) lic__man INFO    Claim 'fpv' for <ui>.
+2024-11-11 10:36:12.854147 (29258) lic__man INFO    Unclaim 'fpv' for <ui>.
+2024-11-11 10:36:12.854179 (29258) lic__man INFO    Claim 'fpv' for <ui>.
+2024-11-11 10:36:12.956927 (29258) session_ INFO    Starting analysis session with session id 'session_0' (launcher: <local>) ...
+2024-11-11 10:36:12.959396 (29258) session_ INFO    Analysis session with session id 'session_0' started (pid: 29279)
+2024-11-11 10:36:14.785479 (29258) session_ INFO    Analysis session 'session_0' connected to the console (host: 127.0.0.1:34952)
+2024-11-11 10:36:16.580295 (29258) lic__man INFO    Unclaim everything for 'session_0'.
+2024-11-11 10:36:16.675061 (29258) lic__man INFO    Claim 'fpv' for 'session_0/prove-0'.
+2024-11-11 10:36:17.410272 (29258) lic__man INFO    Unclaim everything for 'session_0/prove-0'.
+2024-11-11 10:36:21.012674 (29258) main____ INFO    About to exit: requested from GUI
+2024-11-11 10:36:21.718264 (29258) session_ INFO    Analysis session 'session_0' disconnected.
+2024-11-11 10:36:21.720862 (29258) main____ INFO    Exiting with status 0.

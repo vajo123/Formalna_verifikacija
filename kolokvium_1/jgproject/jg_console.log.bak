@@ -1,0 +1,40 @@
+2024-11-11 17:29:28.763937 (21925) main____ INFO    ----------------------------------------
+2024-11-11 17:29:28.763998 (21925) main____ INFO    JasperGold version info
+2024-11-11 17:29:28.764005 (21925) main____ INFO      tool      : JasperGold 2019.06
+2024-11-11 17:29:28.764010 (21925) main____ INFO      version   : 2019.06p002 64 bits
+2024-11-11 17:29:28.764015 (21925) main____ INFO      build date: 2019.08.30 18:14:52 PDT
+2024-11-11 17:29:28.764018 (21925) main____ INFO    ----------------------------------------
+2024-11-11 17:29:28.764021 (21925) main____ INFO    Runtime info:
+2024-11-11 17:29:28.764024 (21925) main____ INFO      platform  : Linux 3.10.0-1160.el7.x86_64 x86_64
+2024-11-11 17:29:28.764029 (21925) main____ INFO      hostname  : ws7.lab003.kel.net
+2024-11-11 17:29:28.764033 (21925) main____ INFO      pid       : 21925
+2024-11-11 17:29:28.764036 (21925) main____ INFO      arguments : '-style' 'windows' 'do.tcl'
+2024-11-11 17:29:28.764039 (21925) main____ INFO    ----------------------------------------
+2024-11-11 17:29:28.764042 (21925) main____ INFO    System resource limits info:
+2024-11-11 17:29:28.764045 (21925) main____ INFO      virtual memory: unlimited
+2024-11-11 17:29:28.764048 (21925) main____ INFO      cpu time      : unlimited
+2024-11-11 17:29:28.764056 (21925) main____ INFO      stack size    : 8388608 B
+2024-11-11 17:29:28.764061 (21925) main____ INFO      core file size: 0 B
+2024-11-11 17:29:28.764067 (21925) main____ INFO      open files    : 1024
+2024-11-11 17:29:28.764071 (21925) main____ INFO      file size     : unlimited
+2024-11-11 17:29:28.764074 (21925) main____ INFO    ----------------------------------------
+2024-11-11 17:29:28.764076 (21925) main____ INFO    Memory statistics:
+2024-11-11 17:29:28.764079 (21925) main____ INFO      total physical memory  : 16156816 kB
+2024-11-11 17:29:28.764082 (21925) main____ INFO      free physical memory   : 8703476 kB
+2024-11-11 17:29:28.764085 (21925) main____ INFO      committed address space: 16115208 kB
+2024-11-11 17:29:28.764087 (21925) main____ INFO    ----------------------------------------
+2024-11-11 17:29:28.764109 (21925) main____ INFO    Important environment variables:
+2024-11-11 17:29:28.764117 (21925) main____ INFO      DISPLAY        : ':10.0'
+2024-11-11 17:29:28.764122 (21925) main____ INFO      LM_LICENSE_FILE: '5280@cadresearch.kel.net'
+2024-11-11 17:29:28.764125 (21925) main____ INFO    ----------------------------------------
+2024-11-11 17:29:28.764255 (21925) lic_core INFO    Initializing license system ...
+2024-11-11 17:29:28.764557 (21925) lic_core INFO    ... license system initialized.
+2024-11-11 17:29:28.765330 (21925) lic__man INFO    Claim 'main' for <ui>.
+2024-11-11 17:29:28.765354 (21925) lic_core INFO    (1) checking out 'jasper_interactive' ...
+2024-11-11 17:29:28.774308 (21925) lic_core INFO    ... (1) checkout failed (error: -4) ("FLEXnet ERROR(-4, 0, 0): Licensed number of users already reached.")
+2024-11-11 17:29:28.774324 (21925) lic_core INFO    (2) checking out 'jasper_pint' ...
+2024-11-11 17:29:28.780459 (21925) lic_core INFO    ... (2) checkout failed (error: -4) ("FLEXnet ERROR(-4, 0, 0): Licensed number of users already reached.")
+2024-11-11 17:29:28.780472 (21925) lic_core INFO    (3) checking out 'jaspergold' ...
+2024-11-11 17:29:28.789349 (21925) lic_core INFO    ... (3) checkout failed (error: -5) ("FLEXnet ERROR(-5, 0, 0): No such feature exists.")
+2024-11-11 17:29:28.789364 (21925) lic_core INFO    (4) checking out 'jasper_interactive_opt' ...
+2024-11-11 17:29:28.796549 (21925) lic_core INFO    ... (4) checkout failed (error: -5) ("FLEXnet ERROR(-5, 0, 0): No such feature exists.")

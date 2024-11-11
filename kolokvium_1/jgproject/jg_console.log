@@ -1,0 +1,55 @@
+2024-11-11 17:29:34.615143 (21947) main____ INFO    ----------------------------------------
+2024-11-11 17:29:34.615209 (21947) main____ INFO    JasperGold version info
+2024-11-11 17:29:34.615217 (21947) main____ INFO      tool      : JasperGold 2019.06
+2024-11-11 17:29:34.615224 (21947) main____ INFO      version   : 2019.06p002 64 bits
+2024-11-11 17:29:34.615228 (21947) main____ INFO      build date: 2019.08.30 18:14:52 PDT
+2024-11-11 17:29:34.615231 (21947) main____ INFO    ----------------------------------------
+2024-11-11 17:29:34.615234 (21947) main____ INFO    Runtime info:
+2024-11-11 17:29:34.615238 (21947) main____ INFO      platform  : Linux 3.10.0-1160.el7.x86_64 x86_64
+2024-11-11 17:29:34.615244 (21947) main____ INFO      hostname  : ws7.lab003.kel.net
+2024-11-11 17:29:34.615247 (21947) main____ INFO      pid       : 21947
+2024-11-11 17:29:34.615251 (21947) main____ INFO      arguments : '-style' 'windows' 'do.tcl'
+2024-11-11 17:29:34.615254 (21947) main____ INFO    ----------------------------------------
+2024-11-11 17:29:34.615257 (21947) main____ INFO    System resource limits info:
+2024-11-11 17:29:34.615260 (21947) main____ INFO      virtual memory: unlimited
+2024-11-11 17:29:34.615264 (21947) main____ INFO      cpu time      : unlimited
+2024-11-11 17:29:34.615272 (21947) main____ INFO      stack size    : 8388608 B
+2024-11-11 17:29:34.615277 (21947) main____ INFO      core file size: 0 B
+2024-11-11 17:29:34.615284 (21947) main____ INFO      open files    : 1024
+2024-11-11 17:29:34.615288 (21947) main____ INFO      file size     : unlimited
+2024-11-11 17:29:34.615291 (21947) main____ INFO    ----------------------------------------
+2024-11-11 17:29:34.615294 (21947) main____ INFO    Memory statistics:
+2024-11-11 17:29:34.615297 (21947) main____ INFO      total physical memory  : 16156816 kB
+2024-11-11 17:29:34.615300 (21947) main____ INFO      free physical memory   : 9047124 kB
+2024-11-11 17:29:34.615303 (21947) main____ INFO      committed address space: 15317380 kB
+2024-11-11 17:29:34.615306 (21947) main____ INFO    ----------------------------------------
+2024-11-11 17:29:34.615329 (21947) main____ INFO    Important environment variables:
+2024-11-11 17:29:34.615337 (21947) main____ INFO      DISPLAY        : ':10.0'
+2024-11-11 17:29:34.615343 (21947) main____ INFO      LM_LICENSE_FILE: '5280@cadresearch.kel.net'
+2024-11-11 17:29:34.615346 (21947) main____ INFO    ----------------------------------------
+2024-11-11 17:29:34.615500 (21947) lic_core INFO    Initializing license system ...
+2024-11-11 17:29:34.615836 (21947) lic_core INFO    ... license system initialized.
+2024-11-11 17:29:34.616679 (21947) lic__man INFO    Claim 'main' for <ui>.
+2024-11-11 17:29:34.616707 (21947) lic_core INFO    (1) checking out 'jasper_interactive' ...
+2024-11-11 17:29:34.635970 (21947) lic_core INFO    ... (1) checkout succeeded
+2024-11-11 17:29:34.636048 (21947) lic__man INFO    Claim 'fpv' for <ui>.
+2024-11-11 17:29:34.636078 (21947) lic_core INFO    (2) checking out 'jasper_fpv' ...
+2024-11-11 17:29:34.646060 (21947) lic_core INFO    ... (2) checkout failed (error: -5) ("FLEXnet ERROR(-5, 0, 0): No such feature exists.")
+2024-11-11 17:29:34.646080 (21947) lic_core INFO    (3) checking out 'jasper_fao' ...
+2024-11-11 17:29:34.662644 (21947) lic_core INFO    ... (3) checkout succeeded
+2024-11-11 17:29:40.376519 (21947) lic__man INFO    Claim 'fpv' for <ui>.
+2024-11-11 17:29:42.272280 (21947) lic__man INFO    Unclaim 'fpv' for <ui>.
+2024-11-11 17:29:42.272330 (21947) lic__man INFO    Claim 'fpv' for <ui>.
+2024-11-11 17:29:42.739837 (21947) session_ INFO    Starting analysis session with session id 'session_0' (launcher: <local>) ...
+2024-11-11 17:29:42.741459 (21947) session_ INFO    Analysis session with session id 'session_0' started (pid: 21998)
+2024-11-11 17:29:44.996863 (21947) session_ INFO    Analysis session 'session_0' connected to the console (host: 127.0.0.1:33372)
+2024-11-11 17:29:49.317802 (21947) lic__man INFO    Unclaim everything for 'session_0'.
+2024-11-11 17:29:49.466331 (21947) lic__man INFO    Claim 'fpv' for 'session_0/prove-0'.
+2024-11-11 17:29:53.110819 (21947) lic__man INFO    Unclaim everything for 'session_0/prove-0'.
+2024-11-11 17:30:06.368899 (21947) lic__man INFO    Claim 'fpv' for 'session_0'.
+2024-11-11 17:31:27.179659 (21972) main____ INFO    SIGINT received (#1). Trying to interrupt current computation(s).
+2024-11-11 17:31:27.357673 (21972) main____ INFO    SIGINT received (#2). Trying to save and exit.
+2024-11-11 17:31:27.873625 (21947) main____ INFO    The database has been auto-saved to '/nethome/vajo.simic/Desktop/Formalna_verifikacija/kolokvium_1/jgproject/autosave_H21947.db'.
+2024-11-11 17:31:28.079360 (21972) main____ INFO    SIGINT received (#1). Trying to interrupt current computation(s).
+2024-11-11 17:31:28.520280 (21947) session_ INFO    Analysis session 'session_0' disconnected.
+2024-11-11 17:31:28.669444 (21947) main____ INFO    Exiting with status 0.
